@@ -1,2 +1,2 @@
 # Röda dagar
-A script to fetch the dates and descriptions of red days up to and including 2025, and then create an ics file containing an event for each date. This file can then be imported into a calendar app.
+```röda_dagar.py``` creates a ics file containing an event for each red day in the years specified. Red days are available for years between 1900 and 2100. There is an option to exclude red days which fall on weekends. 
